@@ -36,5 +36,5 @@ function submitAppeal() {
     setTimeout(() => {
         loading.style.display = 'none';
         verification.style.display = 'block';
-    }, 5000);
+    }, 7000);
 }
